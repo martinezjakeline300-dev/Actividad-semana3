@@ -1,0 +1,6 @@
+Repositorio
+Es el espacio o lugar donde se guarda todo el historial, archivos y versiones de un proyecto.
+Commit
+
+Push
+Es el comando que sirve para enviar o subir todos los cambios guardados (commits) desde tu computadora local hasta el repositorio remoto, por ejemplo, en GitHub.
